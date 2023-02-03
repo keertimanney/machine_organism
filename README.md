@@ -1,4 +1,4 @@
-# Post Anthropocene Living Machine (Generative iterations)
+# Digital Futures workshop 2020: Heirarchy in Geometric order and Agent Behavior
 - Bottom up approach 
 - Explore various agent behaviors and growth aesthetics to form functional parts of the living machine
 - Generate using the clock agent algorithm to create more complexities and hierarchy
